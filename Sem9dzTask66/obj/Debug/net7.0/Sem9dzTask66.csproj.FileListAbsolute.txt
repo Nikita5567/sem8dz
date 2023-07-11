@@ -1,0 +1,15 @@
+C:\Users\Ирина\Desktop\Sem8dz\Sem9dzTask66\bin\Debug\net7.0\Sem9dzTask66.exe
+C:\Users\Ирина\Desktop\Sem8dz\Sem9dzTask66\bin\Debug\net7.0\Sem9dzTask66.deps.json
+C:\Users\Ирина\Desktop\Sem8dz\Sem9dzTask66\bin\Debug\net7.0\Sem9dzTask66.runtimeconfig.json
+C:\Users\Ирина\Desktop\Sem8dz\Sem9dzTask66\bin\Debug\net7.0\Sem9dzTask66.dll
+C:\Users\Ирина\Desktop\Sem8dz\Sem9dzTask66\bin\Debug\net7.0\Sem9dzTask66.pdb
+C:\Users\Ирина\Desktop\Sem8dz\Sem9dzTask66\obj\Debug\net7.0\Sem9dzTask66.csproj.AssemblyReference.cache
+C:\Users\Ирина\Desktop\Sem8dz\Sem9dzTask66\obj\Debug\net7.0\Sem9dzTask66.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ирина\Desktop\Sem8dz\Sem9dzTask66\obj\Debug\net7.0\Sem9dzTask66.AssemblyInfoInputs.cache
+C:\Users\Ирина\Desktop\Sem8dz\Sem9dzTask66\obj\Debug\net7.0\Sem9dzTask66.AssemblyInfo.cs
+C:\Users\Ирина\Desktop\Sem8dz\Sem9dzTask66\obj\Debug\net7.0\Sem9dzTask66.csproj.CoreCompileInputs.cache
+C:\Users\Ирина\Desktop\Sem8dz\Sem9dzTask66\obj\Debug\net7.0\Sem9dzTask66.dll
+C:\Users\Ирина\Desktop\Sem8dz\Sem9dzTask66\obj\Debug\net7.0\refint\Sem9dzTask66.dll
+C:\Users\Ирина\Desktop\Sem8dz\Sem9dzTask66\obj\Debug\net7.0\Sem9dzTask66.pdb
+C:\Users\Ирина\Desktop\Sem8dz\Sem9dzTask66\obj\Debug\net7.0\Sem9dzTask66.genruntimeconfig.cache
+C:\Users\Ирина\Desktop\Sem8dz\Sem9dzTask66\obj\Debug\net7.0\ref\Sem9dzTask66.dll
