@@ -1,0 +1,15 @@
+C:\Users\Ирина\Desktop\Sem8dz\Task60\obj\Debug\net7.0\Task60.csproj.AssemblyReference.cache
+C:\Users\Ирина\Desktop\Sem8dz\Task60\obj\Debug\net7.0\Task60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ирина\Desktop\Sem8dz\Task60\obj\Debug\net7.0\Task60.AssemblyInfoInputs.cache
+C:\Users\Ирина\Desktop\Sem8dz\Task60\obj\Debug\net7.0\Task60.AssemblyInfo.cs
+C:\Users\Ирина\Desktop\Sem8dz\Task60\obj\Debug\net7.0\Task60.csproj.CoreCompileInputs.cache
+C:\Users\Ирина\Desktop\Sem8dz\Task60\bin\Debug\net7.0\Task60.exe
+C:\Users\Ирина\Desktop\Sem8dz\Task60\bin\Debug\net7.0\Task60.deps.json
+C:\Users\Ирина\Desktop\Sem8dz\Task60\bin\Debug\net7.0\Task60.runtimeconfig.json
+C:\Users\Ирина\Desktop\Sem8dz\Task60\bin\Debug\net7.0\Task60.dll
+C:\Users\Ирина\Desktop\Sem8dz\Task60\bin\Debug\net7.0\Task60.pdb
+C:\Users\Ирина\Desktop\Sem8dz\Task60\obj\Debug\net7.0\Task60.dll
+C:\Users\Ирина\Desktop\Sem8dz\Task60\obj\Debug\net7.0\refint\Task60.dll
+C:\Users\Ирина\Desktop\Sem8dz\Task60\obj\Debug\net7.0\Task60.pdb
+C:\Users\Ирина\Desktop\Sem8dz\Task60\obj\Debug\net7.0\Task60.genruntimeconfig.cache
+C:\Users\Ирина\Desktop\Sem8dz\Task60\obj\Debug\net7.0\ref\Task60.dll
